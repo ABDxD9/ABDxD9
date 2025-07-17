@@ -15,7 +15,7 @@
 - 🚧 Working on: Cyber Safety Defender Web Game
 - 🤖 Building: Modular AI JARVIS Assistant with Python
 - 🌐 Learning: Web Dev + Automation + AI Fundamentals
-- 🔐 Curious about: Red Teaming, Linux, and Cyber Ops
+- 🔐 Curious about: Purple Teaming, Linux, and Cyber Ops
 
 ## 🧰 Tech Stack
 
