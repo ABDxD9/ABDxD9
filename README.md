@@ -29,6 +29,14 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white)
 ---
+## 📊 GitHub Stats
+
+![ABDxD9 GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true)
+
 
 ### 📫 Connect with Me
 - Email: 
