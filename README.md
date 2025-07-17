@@ -5,7 +5,7 @@
 🧠 Future AI Engineer | Focused on Real-World Impact  
 🛠️ Currently Building: JARVIS-inspired AI Assistant  
 🌐 Exploring: Web 2.0 & 3.0, blockchain, and Cyber Safety  
-🔒 Passionate about Ethical Hacking & Cyber Awareness  
+🔒 Passionate about AI & Ethical Hacking  
 🧪 Learning by Building |   
 📍India | 💻 #CodeEveryday | 🧠 #MEXTScholarshipPrep  
 
@@ -14,7 +14,7 @@
 ### ⚡ What I'm Up To
 - 🚧 Working on: Cyber Safety Defender Web Game
 - 🤖 Building: Modular AI JARVIS Assistant with Python
-- 🌐 Learning: Web Dev + Automation + AI Fundamentals
+- 🌐 Learning: Web Dev + Automation + AI Fundamentals + CyberSecuirty
 - 🔐 Curious about: Purple Teaming, Linux, and Cyber Ops
 
 ## 🧰 Tech Stack
