@@ -4,9 +4,9 @@
 🚀 AI | Python | Cybersecurity Enthusiast  
 🧠 Future AI Engineer | Focused on Real-World Impact  
 🛠️ Currently Building: JARVIS-inspired AI Assistant  
-🌐 Exploring: Web 2.0, CustomTkinter, and Cyber Safety  
+🌐 Exploring: Web 2.0 & 3.0, blockchain, and Cyber Safety  
 🔒 Passionate about Ethical Hacking & Cyber Awareness  
-🧪 Learning by Building | Coding 5 hrs/day  
+🧪 Learning by Building |   
 📍India | 💻 #CodeEveryday | 🧠 #MEXTScholarshipPrep  
 
 ---
@@ -27,7 +27,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white)
 ---
 
 ### 📫 Connect with Me
