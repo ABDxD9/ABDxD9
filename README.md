@@ -31,7 +31,7 @@
 ---
 ## 📊 GitHub Stats
 
-![ABD'S GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABDxD9e&show_icons=true&theme=radical&hide_border=true)
+![ABD'S GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABDxD9&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDxD9&layout=compact&theme=radical&hide_border=true)
 
