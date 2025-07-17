@@ -39,9 +39,6 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABDxD9&theme=dracula&hide_border=true)
 
-## 🚀 Top Project
-
-[![Top Project](https://github-readme-stats.vercel.app/api/pin/?username=ABDxD9&repo=repo-name&theme=radical)](https://github.com/your-username/repo-name)
 
 ### 📫 Connect with Me
 - Email: 
