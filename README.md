@@ -31,11 +31,11 @@
 ---
 ## 📊 GitHub Stats
 
-![ABDxD9 GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true)
+![ABD'S GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABDxD9e&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDxD9&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ABDxD9&theme=radical&hide_border=true)
 
 
 ### 📫 Connect with Me
