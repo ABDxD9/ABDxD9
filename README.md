@@ -37,6 +37,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ABDxD9&theme=radical&hide_border=true)
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABDxD9&theme=dracula&hide_border=true)
+
 
 ### 📫 Connect with Me
 - Email: 
