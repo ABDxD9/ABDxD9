@@ -7,7 +7,9 @@
 🌐 Exploring: Web 2.0 & 3.0, blockchain, and Cyber Safety  
 🔒 Passionate about AI & Ethical Hacking  
 🧪 Learning by Building |   
-📍India | 💻 #CodeEveryday | 🧠 #MEXTScholarshipPrep  
+📍India | 💻 #CodeEveryday | 🧠 #MEXTScholarshipPrep 
+
+![Profile Views](https://komarev.com/ghpvc/?username=ABDxD9&color=blue)
 
 ---
 
